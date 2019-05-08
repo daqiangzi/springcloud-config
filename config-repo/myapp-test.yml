@@ -1,0 +1,4 @@
+server:
+  port: 1239
+  
+msg: Hello-test
